@@ -2,7 +2,7 @@
 This Repo is Residency Day 2: Project Deliverable 2: Project Deliverable 2: Regression Modeling and Performance Evaluation MSCS-634-M20
 
 # Deliverable 2: Regression Modeling and Evaluation  
-**Course:** Big Data & Data Mining  
+**Course:** Advanced Big Data and Data Mining (MSCS-634-M20)  
 **Dataset:** Passenger Travel Facts and Figures (Bureau of Transportation Statistics)
 
 ---
